@@ -1,0 +1,2 @@
+# Hangman
+ Ez Hangman
